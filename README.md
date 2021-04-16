@@ -4,7 +4,7 @@
 
 Different ways to style a React app. Scss, css-modules and 2 CSS-in-js libraries.
 
-![Screenshot](/src/assets/screenshot.jpg?raw=true "Screenshot")
+![screenshot](https://user-images.githubusercontent.com/20776888/115065426-6a6f0d80-9eee-11eb-99bd-650cb3be219d.jpg)
 
 ## Installation
 
