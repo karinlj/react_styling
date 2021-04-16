@@ -14,10 +14,10 @@ export default function Home() {
           <div className="bookshelf">
             <BookOne />
             <BookTwo />
+            <BookSix />
             <BookThree />
             <BookFour />
             <BookFive />
-            <BookSix />
           </div>
         </div>
       </div>

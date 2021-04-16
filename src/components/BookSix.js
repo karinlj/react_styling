@@ -1,10 +1,14 @@
-export default function BookSix() {
+import StyledBookSix from "../styles/styled-components/StyledBookSix";
+
+const BookSix = () => {
   return (
-    <div className="book-six">
+    //kan sätta klassen här för att få ett klassnamn oxo
+    <StyledBookSix className="book_six">
       <div className="book_info">
-        <p className="title">purple hibiscus</p>
+        <p className="title">Styled with styled-components</p>
         <p className="author">chimamanda ngozi adichie</p>
       </div>
-    </div>
+    </StyledBookSix>
   );
-}
+};
+export default BookSix;
