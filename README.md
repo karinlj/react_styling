@@ -5,7 +5,7 @@
 Different ways to style a React app.
 Comparing Scss, css-modules and two CSS-in-js libraries: styled-components and styled-jsx.
 
-![screenshot](https://user-images.githubusercontent.com/20776888/115065426-6a6f0d80-9eee-11eb-99bd-650cb3be219d.jpg)
+![screenshot](https://user-images.githubusercontent.com/20776888/115065961-24667980-9eef-11eb-8999-f71662811a24.jpg)
 
 ## Installation
 
