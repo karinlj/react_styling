@@ -16,7 +16,7 @@
     }
     [class*="book"] {
       font-size: 32px;
-      letter-spacing: -0.045em;
+      letter-spacing: -0.035em; //-0.045em;;
       display: flex;
       transition: 0.2s;
       &:hover {
@@ -34,11 +34,16 @@
       padding: 16px 0;
       .title {
         font-weight: inherit;
-        font-size: 20px;
+        font-size: 16px;
+        span {
+          margin-top: 0.5rem;
+        }
       }
-      .author {
+      .icon {
         font-weight: inherit;
-        font-size: 15px;
+        i {
+          font-size: 21px;
+        }
       }
     }
   }

@@ -5,8 +5,12 @@ const BookFour = () => {
     //kan sätta klassen här för att få ett klassnamn oxo
     <div className={BookFourStyles["book_four"]}>
       <div className="book_info">
-        <p className="title">Styled with css-modules</p>
-        <p className="author">wole soyinka</p>
+        <p className="title">
+          Styled with: <span>css-modules</span>
+        </p>
+        <p className="icon">
+          <i class="fab fa-react"></i>
+        </p>{" "}
       </div>
     </div>
   );

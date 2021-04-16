@@ -5,8 +5,12 @@ export default function BookThree() {
     //kan sätta klassen här för att få ett klassnamn oxo
     <StyledBookThree className="book_three">
       <div className="book_info">
-        <p className="title">Styled with styled-components</p>
-        <p className="author">Martin Gurri</p>
+        <p className="title">
+          Styled with: <span>styled-components</span>
+        </p>
+        <p className="icon">
+          <i class="fab fa-react"></i>
+        </p>{" "}
       </div>
     </StyledBookThree>
   );

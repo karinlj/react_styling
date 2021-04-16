@@ -4,8 +4,12 @@ const BookOne = () => {
   return (
     <div className="book_one">
       <div className="book_info">
-        <p className="title">Styled with scss</p>
-        <p className="author">Mario Puzo</p>
+        <p className="title">
+          Styled with : <span>scss</span>
+        </p>
+        <p className="icon">
+          <i class="fab fa-react"></i>
+        </p>
       </div>
     </div>
   );
